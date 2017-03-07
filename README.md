@@ -11,5 +11,3 @@ virtualenv -p /usr/local/bin/python3 salido_challenge_env
 source salido_challenge_env/bin/activate
 
 pip install mysqlclient
-
-#pip install MySQL-python
